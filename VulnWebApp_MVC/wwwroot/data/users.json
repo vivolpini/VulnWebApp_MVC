@@ -1,0 +1,5 @@
+{
+  "role": "default",
+  "login": "guest",
+  "password": "abc123","role":"admin"
+}
